@@ -15,7 +15,7 @@ import AdminDashboard from "./Pages/AdminDashboard";
 import ProductDetails from "./Pages/ProductDetails";
 import Cart from "./Pages/Cart";
 import CheckoutPage from "./Pages/CheckoutPage";
-import Checkout from "./Pages/Checkout";
+// import Checkout from "./Pages/Checkout";
 import { CartProvider } from "./Pages/CartContext";
 import { useCart } from "./Pages/CartContext"; 
 
